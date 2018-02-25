@@ -1,11 +1,13 @@
-Building and Deploying Latest Kernel into Begalbone Black using SD Card and Uboot.
+introduction to Linux Arcitecture. 
+Introduction to VI Editior.
 Explained about git with Appropritate examples.
-Introduction to VI Editior
-Introduction to Linux Kernel, Subsystem of Linux Kernel.
 Device Driver Basics
 Hello World Program
 Parameter Passing
 Character Device Driver
 Character Driver File Opertions
+introduction to ioctl,systemcalls
+Building and Deploying Latest Kernel into Begalbone Black using SD Card and Uboot.
+Examples on begalbone related to gpio pins with inbuilt LEDS. 
 USB Driver Fundamentals
-USB Device Driver File Operations
+USB Device Driver File Operations(only probe function ).
